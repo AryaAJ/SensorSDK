@@ -1,0 +1,3 @@
+include ':sensorLib'
+include ':app'
+rootProject.name = "Sensor App"
